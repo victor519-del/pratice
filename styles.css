@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(2, 26, 12);
+}
+
+
+h1 {
+    text-align: center;
+    background-color: rgb(221, 136, 67);
+    font-style: italic;
+}
+
+div{
+    text-align: center;
+}
+
+img{
+    margin: auto;
+    max-width: 500px;
+    max-height: 500px;
+    border-top: 20px groove orange;
+    border-bottom: 20px ridge rgb(151, 218, 17);
+
+    
+}
+
+h2{
+    text-align: center;
+    font-size: large;
+    background-color: rgb(238, 227, 219);
+}
+
+ul{
+    text-align: center;
+    margin: auto;
+    display: table;
+}
+
+li{
+    font-size: 2rem;
+    font-style: initial;
+     
+}
+
+p{
+    font-size: 2rem;
+    text-align: center;
+}
+
+div{
+    background-color: chocolate;
+}
+
+section{
+    background-color: chocolate;
+    font-style: italic;
+}
+
+img{
+    background-color: aliceblue;
+}
+
+a{
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-blend-mode: luminosity ;
+}
